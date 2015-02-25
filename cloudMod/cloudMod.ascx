@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="cloudMod.ascx.cs" Inherits="moduleAppleSeed.DesktopModules.CustomModules.cloudMod.cloudMod" %>
+<h1>Hello World! I finally have an appleseed module .... on the cloud!</h1>
